@@ -33,3 +33,6 @@ After clicking Install, you should see a message indicating success:
 At this point, the add-in should be available in Excel.
 
 ![alt-text](https://github.com/osi-JeremyRoberts/hello-world-vsto/blob/master/readme/AddIn%20screenshot.png)
+
+## Uninstalling the add-in
+After you are finished testing with the add-in, it can be removed via Programs and Features.
